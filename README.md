@@ -2,7 +2,7 @@
 
 Bienvenidos al repositorio donde trabajaremos durante el curso de **Firebase Junio 2024 en Tknika**.
 
-A lo largo de este curso desarrollaremos una sala de chat y lo publicaremos. Para llevar acabo el proyecto utilizaremos:
+A lo largo de este curso desarrollaremos una sala de chat y la publicaremos. Para llevar acabo el proyecto utilizaremos:
 
 * Firebase Hosting
 * Firebase Auth
